@@ -1,6 +1,6 @@
 # PYGHACK
 
-Events app to connect people. Recommend events that you want.
+Events app to connect people.
 
 # Running the application
 
